@@ -10,6 +10,7 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "@vue/cli-service": "^5.0.8",
         "@vue/compiler-sfc": "^3.5.10",
         "axios": "^0.21",
         "laravel-mix": "^6.0.49",
