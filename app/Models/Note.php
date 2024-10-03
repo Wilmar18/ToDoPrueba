@@ -9,7 +9,7 @@ class Note extends Model
 {
     use HasFactory;
 
-    // Definimos los atributos que pueden ser asignados masivamente
+    // Definicion de atributos 
     protected $fillable = [
         'title',
         'description',
